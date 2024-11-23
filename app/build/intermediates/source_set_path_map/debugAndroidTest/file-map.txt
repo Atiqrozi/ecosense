@@ -1,0 +1,5 @@
+com.dicoding.asclepius.test.app-core-1.6.1-0 C:\Users\mufli\.gradle\caches\transforms-3\b086e0a0351582b2fe66ff39f588e2c3\transformed\core-1.6.1\res
+com.dicoding.asclepius.test.app-androidTest-1 D:\Capstones\app\build\generated\res\resValues\androidTest\debug
+com.dicoding.asclepius.test.app-mergeDebugAndroidTestResources-2 D:\Capstones\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.dicoding.asclepius.test.app-mergeDebugAndroidTestResources-3 D:\Capstones\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.dicoding.asclepius.test.app-merged_res-4 D:\Capstones\app\build\intermediates\merged_res\debugAndroidTest

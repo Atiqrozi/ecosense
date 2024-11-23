@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentColor">#FFB74D</color>
+    <color name="accentDarkColor">#F57C00</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="errorColor">#D32F2F</color>
+    <color name="primaryColor">#5C6BC0</color>
+    <color name="primaryDarkColor">#26418F</color>
+    <color name="primaryLightColor">#8E99F3</color>
+    <color name="surfaceColor">#F5F5F5</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <string name="analyze">Analyze</string>
+    <string name="app_name">Asclepius</string>
+    <string name="camera">Kamera</string>
+    <string name="camera_x">CameraX</string>
+    <string name="gallery">Galeri</string>
+    <string name="hasil">Hasil prediksi model sebagai berikut</string>
+    <string name="hasil_gambar">Hasil Gambar\n</string>
+    <string name="history">History\n</string>
+    <string name="image_classifier_failed"/>
+    <string name="news">News</string>
+    <string name="no_result">Tidak ada hasil\n</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="try_again">Try Again</string>
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Asclepius" parent="Base.Theme.Asclepius"/>
+</resources>

@@ -1,0 +1,51 @@
+com.dicoding.asclepius.app-profileinstaller-1.4.0-0 C:\Users\mufli\.gradle\caches\transforms-3\027b84e56d325547c1d0919e93ae4642\transformed\profileinstaller-1.4.0\res
+com.dicoding.asclepius.app-appcompat-resources-1.7.0-1 C:\Users\mufli\.gradle\caches\transforms-3\0750a407614d7b1234c457d96ca9dbd8\transformed\appcompat-resources-1.7.0\res
+com.dicoding.asclepius.app-datastore-release-2 C:\Users\mufli\.gradle\caches\transforms-3\0fe7dbd81eb5a4bbc0c0d0f307ffeb56\transformed\datastore-release\res
+com.dicoding.asclepius.app-lifecycle-livedata-core-2.8.7-3 C:\Users\mufli\.gradle\caches\transforms-3\12c350b1507a15007e914fa0a9b4a806\transformed\lifecycle-livedata-core-2.8.7\res
+com.dicoding.asclepius.app-transition-1.5.0-4 C:\Users\mufli\.gradle\caches\transforms-3\2e3251487f8c94942ad5c2c61ce60f60\transformed\transition-1.5.0\res
+com.dicoding.asclepius.app-activity-ktx-1.9.3-5 C:\Users\mufli\.gradle\caches\transforms-3\329ad37b96377ab79523245a96734f6d\transformed\activity-ktx-1.9.3\res
+com.dicoding.asclepius.app-room-runtime-2.6.1-6 C:\Users\mufli\.gradle\caches\transforms-3\367cb1447b366bd7a398028d0a950c3f\transformed\room-runtime-2.6.1\res
+com.dicoding.asclepius.app-savedstate-ktx-1.2.1-7 C:\Users\mufli\.gradle\caches\transforms-3\445f3c3cd51e49f3760d1cccda2c6654\transformed\savedstate-ktx-1.2.1\res
+com.dicoding.asclepius.app-savedstate-1.2.1-8 C:\Users\mufli\.gradle\caches\transforms-3\460a85fde56f151228a5789bf2a64fbb\transformed\savedstate-1.2.1\res
+com.dicoding.asclepius.app-lifecycle-runtime-ktx-release-9 C:\Users\mufli\.gradle\caches\transforms-3\4c39f4ebdae485420f7da994cc760f8b\transformed\lifecycle-runtime-ktx-release\res
+com.dicoding.asclepius.app-glide-4.16.0-10 C:\Users\mufli\.gradle\caches\transforms-3\57d712df04fd80ddff14a9f80a64316b\transformed\glide-4.16.0\res
+com.dicoding.asclepius.app-emoji2-views-helper-1.3.0-11 C:\Users\mufli\.gradle\caches\transforms-3\6581f191598c60328a30221f25cff93e\transformed\emoji2-views-helper-1.3.0\res
+com.dicoding.asclepius.app-coordinatorlayout-1.1.0-12 C:\Users\mufli\.gradle\caches\transforms-3\659f9eefeaa93fc78f14a2c225f5e7e0\transformed\coordinatorlayout-1.1.0\res
+com.dicoding.asclepius.app-room-ktx-2.6.1-13 C:\Users\mufli\.gradle\caches\transforms-3\6751176ac5d1a130fc90c6e5618e67b1\transformed\room-ktx-2.6.1\res
+com.dicoding.asclepius.app-datastore-preferences-release-14 C:\Users\mufli\.gradle\caches\transforms-3\7272612adad7a01927df689b03a494b1\transformed\datastore-preferences-release\res
+com.dicoding.asclepius.app-cardview-1.0.0-15 C:\Users\mufli\.gradle\caches\transforms-3\74509cef8a3c19693d320dfdc501e23d\transformed\cardview-1.0.0\res
+com.dicoding.asclepius.app-drawerlayout-1.1.1-16 C:\Users\mufli\.gradle\caches\transforms-3\785e36b6c32babb715f45d57201bffb7\transformed\drawerlayout-1.1.1\res
+com.dicoding.asclepius.app-work-runtime-ktx-2.9.0-17 C:\Users\mufli\.gradle\caches\transforms-3\7af2fd7fd11d362b86f65c8d3be82953\transformed\work-runtime-ktx-2.9.0\res
+com.dicoding.asclepius.app-datastore-core-release-18 C:\Users\mufli\.gradle\caches\transforms-3\7c7c9d460bf560d66384d257c850d1c6\transformed\datastore-core-release\res
+com.dicoding.asclepius.app-lifecycle-viewmodel-savedstate-2.8.7-19 C:\Users\mufli\.gradle\caches\transforms-3\7ef4c6369fd784b38357f11f382904c4\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.dicoding.asclepius.app-lifecycle-service-2.8.7-20 C:\Users\mufli\.gradle\caches\transforms-3\7f9817c2ac253a2636078678e7e91ea8\transformed\lifecycle-service-2.8.7\res
+com.dicoding.asclepius.app-material-1.12.0-21 C:\Users\mufli\.gradle\caches\transforms-3\86762096432029a61ba0dee5fd012a77\transformed\material-1.12.0\res
+com.dicoding.asclepius.app-constraintlayout-2.2.0-22 C:\Users\mufli\.gradle\caches\transforms-3\86dfaae0b2b1df2fd95e7e393951b189\transformed\constraintlayout-2.2.0\res
+com.dicoding.asclepius.app-viewpager2-1.0.0-23 C:\Users\mufli\.gradle\caches\transforms-3\8f3bd580994d59b224bb7e54b9f68fe1\transformed\viewpager2-1.0.0\res
+com.dicoding.asclepius.app-sqlite-framework-2.4.0-24 C:\Users\mufli\.gradle\caches\transforms-3\92cf3a8251c0f80d40a29de741e5dd19\transformed\sqlite-framework-2.4.0\res
+com.dicoding.asclepius.app-lifecycle-livedata-core-ktx-2.8.7-25 C:\Users\mufli\.gradle\caches\transforms-3\9335b04e2b408dad578f096526f2c5f8\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.dicoding.asclepius.app-lifecycle-viewmodel-ktx-2.8.7-26 C:\Users\mufli\.gradle\caches\transforms-3\955deab1dc62edb1810ee4bac965a78a\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.dicoding.asclepius.app-annotation-experimental-1.4.0-27 C:\Users\mufli\.gradle\caches\transforms-3\97631bbe88ebf847b046c315936ff65a\transformed\annotation-experimental-1.4.0\res
+com.dicoding.asclepius.app-ucrop-2.2.9-native-28 C:\Users\mufli\.gradle\caches\transforms-3\9c24f8ab7a591995bc57cccf23ebaf10\transformed\ucrop-2.2.9-native\res
+com.dicoding.asclepius.app-core-1.13.0-29 C:\Users\mufli\.gradle\caches\transforms-3\a41779bbebf880b2c8fb0aa0aac75790\transformed\core-1.13.0\res
+com.dicoding.asclepius.app-core-runtime-2.2.0-30 C:\Users\mufli\.gradle\caches\transforms-3\ae7887af6f8e32a206567c5a4e8c20c4\transformed\core-runtime-2.2.0\res
+com.dicoding.asclepius.app-fragment-1.5.4-31 C:\Users\mufli\.gradle\caches\transforms-3\b5d513caf7a211526ab7366724026de0\transformed\fragment-1.5.4\res
+com.dicoding.asclepius.app-appcompat-1.7.0-32 C:\Users\mufli\.gradle\caches\transforms-3\b78bbca526f60cf2106d46233d9f928c\transformed\appcompat-1.7.0\res
+com.dicoding.asclepius.app-lifecycle-runtime-release-33 C:\Users\mufli\.gradle\caches\transforms-3\b78dbea15f0f8a7096efb9fc98baaf1a\transformed\lifecycle-runtime-release\res
+com.dicoding.asclepius.app-activity-1.9.3-34 C:\Users\mufli\.gradle\caches\transforms-3\bf7d7a1f1067a211d0010b59882d12b6\transformed\activity-1.9.3\res
+com.dicoding.asclepius.app-core-ktx-1.13.0-35 C:\Users\mufli\.gradle\caches\transforms-3\c1eb6f07a70eec86ca9b841a1be43363\transformed\core-ktx-1.13.0\res
+com.dicoding.asclepius.app-sqlite-2.4.0-36 C:\Users\mufli\.gradle\caches\transforms-3\c6f4660b6185ab21fba7fd80609ca42d\transformed\sqlite-2.4.0\res
+com.dicoding.asclepius.app-lifecycle-livedata-2.8.7-37 C:\Users\mufli\.gradle\caches\transforms-3\ca492b01700976f56fad8b0c5443a91c\transformed\lifecycle-livedata-2.8.7\res
+com.dicoding.asclepius.app-startup-runtime-1.1.1-38 C:\Users\mufli\.gradle\caches\transforms-3\ce623efd63bf2c324ef2114c0e17657b\transformed\startup-runtime-1.1.1\res
+com.dicoding.asclepius.app-lifecycle-process-2.8.7-39 C:\Users\mufli\.gradle\caches\transforms-3\cfd7aaad315a01e012ac9a8d9ff52ac4\transformed\lifecycle-process-2.8.7\res
+com.dicoding.asclepius.app-emoji2-1.3.0-40 C:\Users\mufli\.gradle\caches\transforms-3\e565734125baf9d4bab38fefb4b4310a\transformed\emoji2-1.3.0\res
+com.dicoding.asclepius.app-recyclerview-1.1.0-41 C:\Users\mufli\.gradle\caches\transforms-3\e97ac3e01cb8567cc648a9bfcd0a3f62\transformed\recyclerview-1.1.0\res
+com.dicoding.asclepius.app-work-runtime-2.9.0-42 C:\Users\mufli\.gradle\caches\transforms-3\edd99d8199146ffc2b87f8b60a4f4e7d\transformed\work-runtime-2.9.0\res
+com.dicoding.asclepius.app-lifecycle-viewmodel-release-43 C:\Users\mufli\.gradle\caches\transforms-3\f99c10e23edc0bf1ef2caeed5cd845aa\transformed\lifecycle-viewmodel-release\res
+com.dicoding.asclepius.app-pngs-44 D:\Khusus Capstones\ecosense\app\build\generated\res\pngs\debug
+com.dicoding.asclepius.app-resValues-45 D:\Khusus Capstones\ecosense\app\build\generated\res\resValues\debug
+com.dicoding.asclepius.app-packageDebugResources-46 D:\Khusus Capstones\ecosense\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.dicoding.asclepius.app-packageDebugResources-47 D:\Khusus Capstones\ecosense\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.dicoding.asclepius.app-merged_res-48 D:\Khusus Capstones\ecosense\app\build\intermediates\merged_res\debug
+com.dicoding.asclepius.app-debug-49 D:\Khusus Capstones\ecosense\app\src\debug\res
+com.dicoding.asclepius.app-main-50 D:\Khusus Capstones\ecosense\app\src\main\res

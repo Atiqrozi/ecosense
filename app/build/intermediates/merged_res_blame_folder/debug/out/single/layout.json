@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_history.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_news.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_news.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/item_news.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/item_news.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_result.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_result.xml"
+    }
+]
